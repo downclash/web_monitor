@@ -106,5 +106,5 @@ assignees:
 # 状态页配置
 status-website:
   name: 工具站点监控状态
-  baseUrl: /upptime
+  baseUrl: /web_monitor
   publish: true
