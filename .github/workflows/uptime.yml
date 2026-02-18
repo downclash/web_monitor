@@ -13,10 +13,11 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
+
 name: Uptime CI
 on:
   schedule:
-    - cron: "0 */6 * * *" # 每6小时检查一次（整点执行：0点、6点、12点、18点）
+    - cron: "*/5 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
@@ -24,9 +25,6 @@ jobs:
   release:
     name: Check status
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      issues: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
