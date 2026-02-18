@@ -1,8 +1,8 @@
 # 基础配置（已替换为 downclash）
 owner: downclash
-repo: upptime
+repo: web_monitor
 user-agent: Upptime/1.0
-timezone: Asia/Shanghai      # 时区：亚洲/上海
+timezone: Asia/Shanghai # 时区：亚洲/上海
 
 # Telegram 告警配置（已填入你的 Bot Token 和 Chat ID）
 notifications:
