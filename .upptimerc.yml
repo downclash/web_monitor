@@ -1,0 +1,110 @@
+# 基础配置（已替换为 downclash）
+owner: downclash
+repo: upptime
+user-agent: Upptime/1.0
+timezone: Asia/Shanghai      # 时区：亚洲/上海
+
+# Telegram 告警配置（已填入你的 Bot Token 和 Chat ID）
+notifications:
+  - type: telegram
+    slug: telegram
+    enabled: true
+    secrets:
+      TELEGRAM_API_KEY: "8248212427:AAHp1RamuLPIQ0LBu6qa5P6SnawizzcZXT0"
+      TELEGRAM_CHAT_ID: "6098493061"
+
+# 监控站点列表（含SSL监控+14天提前告警）
+sites:
+  - name: clashxhub.com
+    url: https://clashxhub.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: clashkit.com
+    url: https://clashkit.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: clash4mac.com
+    url: https://clash4mac.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: clash4android.com
+    url: https://clash4android.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: clash4windows.com
+    url: https://clash4windows.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: v2rayn.co
+    url: https://v2rayn.co
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: v2rayu.co
+    url: https://v2rayu.co
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: v2rayng.co
+    url: https://v2rayng.co
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: justmysockss.org
+    url: https://justmysockss.org
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: v2ray-x.com
+    url: https://v2ray-x.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: tizidaquan.com
+    url: https://tizidaquan.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+  - name: haojichang.com
+    url: https://haojichang.com
+    success-codes: "200,301,302"
+    ssl: true
+    ssl-warning: 14
+    timeout: 15
+
+# 告警@人配置（已替换为 downclash）
+assignees:
+  - downclash
+
+# 状态页配置
+status-website:
+  name: 工具站点监控状态
+  baseUrl: /upptime
+  publish: true
