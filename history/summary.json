@@ -4,9 +4,9 @@
     "url": "https://clashxhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/clashxhub.com.ico",
     "slug": "clashxhub-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 271,
     "timeMonth": 246,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   },
   {
     "name": "clashkit.com",
@@ -149,13 +151,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/justmysockss.org.ico",
     "slug": "justmysockss-org",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "98.45%",
+    "uptime": "99.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.26%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 4654,
-    "timeDay": 7311,
+    "timeDay": 1214,
     "timeWeek": 5139,
     "timeMonth": 4654,
     "timeYear": 4654,
