@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clash4mac.com.ico",
     "slug": "clash4mac-com",
     "status": "up",
-    "uptime": "31.45%",
+    "uptime": "31.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.45%",
+    "uptimeYear": "31.23%",
     "time": 428,
     "timeDay": 499,
     "timeWeek": 439,
     "timeMonth": 429,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2026-04-22": 198,
+      "2026-04-22": 867,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
       "2026-04-19": 1440,
@@ -108,9 +108,9 @@
     "url": "https://clash4android.com",
     "icon": "https://icons.duckduckgo.com/ip3/clash4android.com.ico",
     "slug": "clash4android-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,7 +119,9 @@
     "timeWeek": 409,
     "timeMonth": 448,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-22": 0
+    }
   },
   {
     "name": "clash4windows.com",
