@@ -54,7 +54,7 @@
     "timeMonth": 408,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2026-06-28": 1273,
+      "2026-06-28": 1336,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -293,16 +293,16 @@
     "url": "https://v2ray-x.com",
     "icon": "https://icons.duckduckgo.com/ip3/v2ray-x.com.ico",
     "slug": "v2ray-x-com",
-    "status": "down",
-    "uptime": "96.58%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "92.34%",
-    "uptimeYear": "96.58%",
+    "status": "up",
+    "uptime": "96.55%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "92.20%",
+    "uptimeYear": "96.55%",
     "time": 1095,
-    "timeDay": 738,
-    "timeWeek": 1240,
-    "timeMonth": 1009,
+    "timeDay": 846,
+    "timeWeek": 1224,
+    "timeMonth": 1010,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2026-03-12": 154,
@@ -342,7 +342,7 @@
       "2026-06-20": 180,
       "2026-06-21": 134,
       "2026-06-26": 112,
-      "2026-06-28": 0
+      "2026-06-28": 63
     }
   },
   {
